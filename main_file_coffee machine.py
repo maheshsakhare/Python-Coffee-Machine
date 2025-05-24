@@ -1,6 +1,3 @@
-# TODO: 2.Check resources are sufficient to make drik order.
-from Tools.scripts.generate_token import make_c
-
 MENU = {
     "espresso": {
         "ingredients": {
